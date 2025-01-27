@@ -13,13 +13,13 @@ uniform float u_fogYMultiplier;
 uniform vec3 u_fogBottomTopDensity;
 uniform vec2 u_hazeStartDensity;
 
-attribute vec3 a_position;
-attribute vec4 a_color;
-attribute vec2 a_texcoord;
+in vec3 a_position;
+in vec4 a_color;
+in vec2 a_texcoord;
 
-varying vec4 v_color;
-varying vec2 v_texcoord;
-varying float v_fog;
+out vec4 v_color;
+out vec2 v_texcoord;
+out float v_fog;
 out mat4 v_worldViewProjectionMatrix;
 out vec3 v_position;
 

@@ -14,24 +14,6 @@
 	  <None Update="Assets\Shaders\AlphaTested.vsh">
 	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 	  </None>
-	  <None Update="Assets\Shaders\Highlight.psh">
-	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-	  </None>
-	  <None Update="Assets\Shaders\Highlight.vsh">
-	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-	  </None>
-	  <None Update="Assets\Shaders\Lit.psh">
-	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-	  </None>
-	  <None Update="Assets\Shaders\Lit.vsh">
-	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-	  </None>
-	  <None Update="Assets\Shaders\Model.psh">
-	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-	  </None>
-	  <None Update="Assets\Shaders\Model.vsh">
-	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-	  </None>
 	  <None Update="Assets\Shaders\Opaque.psh">
 	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 	  </None>
@@ -43,12 +25,6 @@
 	  </None>
 	  <None Update="Assets\Shaders\Transparent.vsh">
 	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-	  </None>
-	  <None Update="Assets\Shaders\Unlit.psh">
-	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-	  </None>
-	  <None Update="Assets\Shaders\Unlit.vsh">
-	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
 	  </None>
 	  <None Update="icon.png">
 	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
