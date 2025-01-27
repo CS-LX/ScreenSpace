@@ -56,15 +56,15 @@
 	</ItemGroup>
 	<ItemGroup>
 	  <Reference Include="Engine">
-	    <HintPath>E:\Games\[Windows]SurvivalcraftAPI_1.80-1\Engine.dll</HintPath>
+	    <HintPath>references\Engine.dll</HintPath>
 	    <Private>False</Private>
 	  </Reference>
 	  <Reference Include="EntitySystem">
-	    <HintPath>E:\Games\[Windows]SurvivalcraftAPI_1.80-1\EntitySystem.dll</HintPath>
+	    <HintPath>references\EntitySystem.dll</HintPath>
 	    <Private>False</Private>
 	  </Reference>
 	  <Reference Include="Survivalcraft">
-	    <HintPath>E:\Games\[Windows]SurvivalcraftAPI_1.80-1\Survivalcraft.dll</HintPath>
+	    <HintPath>references\Survivalcraft.dll</HintPath>
 	    <Private>False</Private>
 	  </Reference>
 	</ItemGroup>
