@@ -1,0 +1,12 @@
+{
+  "Name": "Screen Space-屏幕空间",
+  "Version": "1.0",
+  "ApiVersion": "1.80",
+  "Description": "非常好光影，使我眼睛炸裂",
+  "ScVersion": "2.4.0.0",
+  "Icon": "icon.png",
+  "Link": "https://space.bilibili.com/312642275",
+  "Author": "LX..",
+  "PackageName": "lx.ScreenSpace",
+  "Dependencies": []
+}
