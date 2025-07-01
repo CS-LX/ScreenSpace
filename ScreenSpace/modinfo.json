@@ -1,7 +1,7 @@
 {
-  "Name": "Screen Space-屏幕空间",
-  "Version": "1.1",
-  "ApiVersion": "1.80",
+  "Name": "[API1.8.1.2]Screen Space-屏幕空间",
+  "Version": "1.2",
+  "ApiVersion": "1.8.1.2",
   "Description": "非常好光影，使我眼睛炸裂",
   "ScVersion": "2.4.0.0",
   "Icon": "icon.png",
